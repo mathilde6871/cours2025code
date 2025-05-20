@@ -1,20 +1,20 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
+  background: rgb(15,5,107);
   color: hotpink;
   font-size: 50px;
   font-family: cursive;
 }
 h1{
-  font-family: revert;
+  font-family: goldman;
   color: hotpink;
-  font-weight: lighter;
+  font-weight: normal;
   font-size: 40px;
 }
 h2 {
-  font-family: sans-serif;
-  color: rebeccapurple;
-  font-weight: lighter;
+  font-family: montserrat;
+  color: floralwhite;
+  font-weight: normal;
   font-size: 23px;
 }
 a {
@@ -23,4 +23,7 @@ a {
 a:hover {
   text-decoration: none;
   color: purple;
+}
+.ninho{
+    width: 400px;
 }
